@@ -21,8 +21,8 @@ Pronto, isso não precisa fazer de novo.
 ## Passo 3: abrir o app
 
 1. Entre na pasta que apareceu
-2. Dê **dois cliques** no arquivo **Abrir PokeGrid** (`.vbs`). Ele abre o app **sem janela preta**.
-3. Na **primeira vez** ele demora um pouquinho (está baixando o que precisa) e abre sozinho. Nas próximas vezes abre rápido e sem terminal nenhum.
+2. Dê **dois cliques** no arquivo **Abrir PokeGrid** (`.bat`).
+3. Na **primeira vez** ele demora um pouquinho numa janela preta (está baixando o que precisa) e abre o app sozinho. Nas próximas vezes a janela só pisca e o app abre rápido.
 
 > Se o Windows mostrar uma tela azul ("O Windows protegeu seu computador"), clique em **Mais informações** e depois **Executar assim mesmo**. Isso acontece porque o app não tem assinatura paga, mas o código é aberto e você pode conferir tudo aqui.
 

@@ -42,7 +42,7 @@ git clone https://github.com/soufoka/PokeGrid-source.git
 ```
 
 **3. Open the app**
-On Windows, double click **Abrir PokeGrid** (`.vbs`) in the folder. The first time it installs what it needs and opens on its own; after that it opens right away, with no black window. Want a shortcut? Right click it, **Send to: Desktop (create shortcut)**.
+On Windows, double click **Abrir PokeGrid** (`.bat`) in the folder. The first time it installs what it needs in a black window and opens the app; after that the window just flashes and the app opens right away. Want a shortcut? Right click it, **Send to: Desktop (create shortcut)**.
 
 You can also use **iniciar.bat**, but it keeps a black window open and closing that window closes the app.
 
